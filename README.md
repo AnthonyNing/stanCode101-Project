@@ -1,2 +1,2 @@
 ## stanCode101-Project
-Hello there!\
+Hello there!
